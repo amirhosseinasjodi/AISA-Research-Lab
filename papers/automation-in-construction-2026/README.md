@@ -1,4 +1,3 @@
-
 # Supplementary Materials
 
 This repository contains the supplementary materials and reproducibility documentation associated with the paper:
@@ -14,6 +13,9 @@ The study presents a vision-based framework for automatically predicting the sei
 
 - `ml_model_reproducibility_details.xlsx`  
   Documents the machine-learning workflow, including data preprocessing, feature scaling, data splitting, cross-validation, model configurations, hyperparameters, random seeds, and computational environment.
+
+- `rcsw_image_database.zip`  
+  Contains the image database of damaged reinforced concrete shear wall (RCSW) specimens captured at different drift increments during cyclic loading. The images document the progression of visible damage, including cracking, concrete crushing, and other surface damage features used in the study.
 
 These materials are provided to support the transparency, reproducibility, and further development of the proposed vision-based seismic damage assessment methodology.
 
