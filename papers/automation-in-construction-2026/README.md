@@ -2,7 +2,7 @@
 
 This repository contains the supplementary materials and reproducibility documentation associated with the paper:
 
-**Vision-Based Automated Prediction of Seismic Damage Index in RC Shear Walls Using Morphological Damage Features**
+**Vision-Based Prediction of Seismic Damage Index for RC Shear Walls Using Morphological Damage Features**
 
 The study presents a vision-based framework for automatically predicting the seismic damage index of reinforced-concrete shear walls using morphological damage features extracted from experimental images. The supplementary files document the feature-extraction process, processed machine-learning inputs, preprocessing procedures, model configurations, hyperparameters, data-splitting strategies, and validation settings used in the study.
 
