@@ -22,3 +22,6 @@ These materials are provided to support the transparency, reproducibility, and f
 ## Citation
 
 When using these materials, please cite the associated paper:
+1.	Dehghan AH, Asjodi AH. (2026) Vision-based prediction of seismic damage index for RC shear walls using morphological damage features. Automation in Construction 192: 107225. https://doi.org/10.1016/j.autcon.2026.107225
+2. Asjodi AH, Dolatshahi KM, Ebrahimkhanlou A (2022) Spatial analysis of damage evolution in cyclic-loaded reinforced concrete shear walls. Journal of Building Engineering 49:. https://doi.org/https://doi.org/10.1016/j.jobe.2022.104032 
+3.	Momeni, H., & Dolatshahi, K. M. (2019). Predictive equations for drift ratio and damage assessment of RC shear walls using surface crack patterns. Engineering Structures, 190, 410-421.
